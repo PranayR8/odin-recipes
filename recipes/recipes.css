@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    background-color: aqua;
+}
+
+ul, ol{
+    display:inline;
+ 
+  }
+
+li {
+    font-size: 20px;;
+}
